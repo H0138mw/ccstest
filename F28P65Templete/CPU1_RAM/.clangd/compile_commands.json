@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM/syscfg\" -DF28P65x=1",
+      "file"      : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM/syscfg\" -DF28P65x=1",
+      "file"      : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/device/f28p65x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM/syscfg\" -DF28P65x=1",
+      "file"      : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/empty_driverlib_main.c"
+   },
+   {
+      "directory" : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM/syscfg\" -DF28P65x=1",
+      "file"      : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28p65x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM/syscfg\" -DF28P65x=1",
+      "file"      : "C:/Users/hemin/Desktop/DSP_Project/DSP2803x_Project/GItStoreHouse/F28P65Templete/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]

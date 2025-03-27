@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "F28P65Templete",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "F28P65Templete",
+                "resourceId": "/F28P65Templete"
+            }
+        }
+    ]
+}
